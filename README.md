@@ -6,3 +6,4 @@ to commit, type "git commit -am 'comment'"
 ###This is a second title
 to add/update all files, type "git add -A"
 ###Another title
+to check all commits, type "git log"
