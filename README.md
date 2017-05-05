@@ -5,3 +5,5 @@ to add file to git, type "git add 'filename'"
 to commit, type "git commit -m 'comment'"
 ###This is a second title
 to add/update all files, type "git add -A"
+
+###Another title
