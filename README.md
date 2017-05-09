@@ -25,3 +25,7 @@ to check branch, type "git branch"
 to add gitfile to github, type "remote add origin <SSH>"
 
 "origin" refers to gitHub server
+
+to push to github server, type "git push origin master (or branch name)", or "git push -u origin master"
+
+to fetch and merge from github server, type "git pull 
