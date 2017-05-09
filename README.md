@@ -30,4 +30,6 @@ to push to github server, type "git push origin master (or branch name)", or "gi
 
 to fetch and merge from github server, type "git pull origin master"
 
-to do: find out what git remote -v does
+to see all remote repositories, type "git remote -v"
+
+## Note: Pull before you Push!!
