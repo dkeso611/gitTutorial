@@ -28,4 +28,4 @@ to add gitfile to github, type "remote add origin <SSH>"
 
 to push to github server, type "git push origin master (or branch name)", or "git push -u origin master"
 
-to fetch and merge from github server, type "git pull 
+to fetch and merge from github server, type "git pull origin master"
