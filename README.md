@@ -1,4 +1,4 @@
-####This is a title
+##This is a title
 
 to create git repository from terminal type "git init" in directory
 to check status from repository type "git status"
